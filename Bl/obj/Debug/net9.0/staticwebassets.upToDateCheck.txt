@@ -1,0 +1,3 @@
+wwwroot\background.png
+wwwroot\exampleJsInterop.js
+C:\Users\Haidy\Desktop\Techora\Bl\wwwroot\exampleJsInterop.js

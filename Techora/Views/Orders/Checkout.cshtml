@@ -1,0 +1,92 @@
+﻿@model List<Cart>
+
+<div class="container py-5">
+  
+
+    <div class="row justify-content-center">
+        <div class="col-lg-8 col-md-10">
+            <!-- ✅ Begin form -->
+            <form asp-action="Checkout" asp-controller="Orders" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="checkout__order p-5 shadow-lg bg-white rounded-4">
+                    <h2 class="text-center mb-4 fw-bold text-primary">Your Order</h2>
+
+                    <!-- Order Items Table -->
+                    <div class="mb-4">
+                        <table class="table table-borderless align-middle">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Product</th>
+                                    <th class="text-center">Qty</th>
+                                    <th class="text-end">Price</th>
+                                    <th class="text-end">Subtotal</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.Product.ProductName</td>
+                                        <td class="text-center">@item.Quantity</td>
+                                        <td class="text-end">$@item.Product.Price</td>
+                                        <td class="text-end">$@(item.Quantity* item.Product.Price)</td>
+                                    </tr>
+
+                                    <!-- ✅ Hidden fields to send cart data -->
+                                    <input type="hidden" name="CartIds" value="@item.CartId" />
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <!-- Order Summary -->
+                    <div class="border-top pt-3">
+                        @{
+                            var subtotal = Model.Sum(i => i.Product.Price * i.Quantity);
+                            var discount = 0;
+                            var total = subtotal - discount;
+                        }
+
+                        <div class="d-flex justify-content-between">
+                            <span class="fw-semibold">Subtotal:</span>
+                            <span>$@subtotal</span>
+                        </div>
+                        <div class="d-flex justify-content-between text-success">
+                            <span class="fw-semibold">Discount:</span>
+                            <span>-$@discount</span>
+                        </div>
+                        <div class="d-flex justify-content-between fs-5 fw-bold border-top mt-2 pt-2">
+                            <span>Total:</span>
+                            <span>$@total</span>
+                        </div>
+                    </div>
+
+                    <!-- Payment Options -->
+                    <div class="mt-4">
+                        <h5 class="fw-semibold mb-3">Payment Method</h5>
+
+                        <div class="form-check mb-2">
+                            <input class="form-check-input" type="radio" name="PaymentMethod" id="checkPayment" value="Check" checked>
+                            <label class="form-check-label" for="checkPayment">Check Payment</label>
+                        </div>
+
+                        <div class="form-check mb-2">
+                            <input class="form-check-input" type="radio" name="PaymentMethod" id="paypal" value="PayPal">
+                            <label class="form-check-label" for="paypal">PayPal</label>
+                        </div>
+                    </div>
+
+                    <!-- Place Order Button -->
+                    <div class="text-center mt-4">
+                        <button type="submit" class="btn btn-primary btn-lg rounded-pill px-5 shadow-sm">
+                            PLACE ORDER
+                        </button>
+                    </div>
+                </div>
+            </form>
+        
+            <!-- ✅ End form -->
+        </div>
+    </div>
+</div>

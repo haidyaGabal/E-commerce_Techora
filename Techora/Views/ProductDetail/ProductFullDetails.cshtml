@@ -1,0 +1,244 @@
+﻿@model ProFullDetailsShopModel
+
+@section Styles {
+
+}
+
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Vegetable’s Package</h2>
+                    <div class="breadcrumb__option">
+                        <a href="./index.html">Home</a>
+                        <a href="./index.html">Vegetables</a>
+                        <span>Vegetable’s Package</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+<!-- Product Details Section Begin -->
+<section class="product-details spad">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model.ProductAllShopDetail)
+            {
+            <div class="col-lg-6 col-md-6">
+                    <div class="product__details__pic">
+                        <!-- Main Image -->
+                        <div class="product__details__pic__item">
+                            @{
+                                var mainImage = item.Product.ProductImages?.FirstOrDefault()?.ImageUrl
+                                ?? Url.Content("~/FrontEnd/img/default-product.png");
+                            }
+                            <img class="product__details__pic__item--large"
+                                 src="@mainImage"
+                                 alt="@item.Product.ProductName" />
+                        </div>
+
+                        <!-- Slider Thumbnails -->
+                        <div class="product__details__pic__slider owl-carousel">
+                            @if (item.Product.ProductImages != null && item.Product.ProductImages.Count > 1)
+                            {
+                                foreach (var img in item.Product.ProductImages) 
+                                {
+                                    <img src="@img.ImageUrl"
+                                         alt="@item.Product.ProductName" />
+                                }
+                            }
+
+                        </div>
+                    </div>
+
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="product__details__text">
+                    <h3>@item.Product.ProductName</h3>
+                  
+                        <div class="product__details__price">$@item.Product.Price</div>
+                        <p style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis;">
+                            @item.Product.Description
+                        </p>
+
+                       
+                        <form asp-controller="Orders" asp-action="AddToCart" method="post">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <div class="product__details__quantity">
+                                <div class="quantity">
+                                    <div class="pro-qty">
+                                        <input type="number"
+                                               name="quantity"
+                                               id="qty-@item.ProductId"
+                                               value="1"
+                                               min="1" />
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="submit" class="primary-btn">ADD TO CART</button>
+                            <a href="#" class="heart-icon"><span class="icon_heart_alt"></span></a>
+                        </form>
+
+
+
+                   
+
+                    
+                    <ul>
+                        <li><b>Availability</b> <span>@item.Product.Stock</span></li>
+                            <li><b>Color</b> <span>@item.Color</span></li>
+                            <li><b>Weight</b> <span>@item.Weight</span></li>
+                
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="product__details__tab">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#tabs-1" role="tab"
+                               aria-selected="true">Description</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#tabs-2" role="tab"
+                               aria-selected="false">Information</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#tabs-3" role="tab"
+                               aria-selected="false">Reviews <span>(1)</span></a>
+                        </li>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="tabs-1" role="tabpanel">
+                            <div class="product__details__tab__desc">
+                                    <h6>@item.Product.ProductName Description</h6>
+                                <p>
+                                        @item.Product.Description
+                                </p>
+                         
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tabs-2" role="tabpanel">
+                            <div class="product__details__tab__desc">
+                                    <h6>@item.Product.ProductName Infomation</h6>
+                                    <ul>
+                                        <li><b>Availability</b> <span>@item.Product.Stock</span></li>
+                                        <li><b>Color</b> <span>@item.Color</span></li>
+                                        <li><b>Weight</b> <span>@item.Weight</span></li>
+
+                                    </ul>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tabs-3" role="tabpanel">
+                            <div class="product__details__tab__desc">
+                                    <h6>@item.Product.ProductName Reviews</h6>
+                                <p>
+                                        @foreach (var rev in item.Product.Reviews)
+                                        {
+                                            <p>@rev.Comment</p>
+                                        }
+                                 </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</section>
+<!-- Product Details Section End -->
+<!-- Related Product Section Begin -->
+<section class="related-product">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title related__product__title">
+                    <h2>Related Products</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+            @foreach (var rel in Model.RecommendedItems)
+            {
+               
+                
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="featured__item shadow-sm rounded-3 border h-100">
+                        <!-- Product Image -->
+                        <!-- Product Image -->
+                        <div class="featured__item__pic position-relative set-bg"
+                             data-setbg="@(rel.ProductImages?.FirstOrDefault()?.ImageUrl ?? Url.Content("~/FrontEnd/img/default-product.png"))"
+                             style="height:250px; background-size:cover; background-position:center;">
+                            <ul class="featured__item__pic__hover position-absolute bottom-0 start-50 translate-middle-x d-flex gap-2 mb-2">
+                                <!-- Wishlist -->
+                                <li>
+                                    <a href="#" title="Add to Wishlist" class="bg-danger text-white">
+                                        <i class="fa fa-heart"></i>
+                                    </a>
+                                </li>
+
+
+
+                                <!-- Shopping Cart -->
+                                <li>
+                                    <a asp-controller="ProductDetail"
+                                       asp-action="ProductFullDetails"
+                                       asp-route-ProductId="@rel.ProductId" title="View Product" class="bg-primary text-white">
+                                        <i class="fa fa-shopping-cart"></i>
+                                    </a>
+                                </li>
+                            </ul>  
+                        </div>
+
+                        <!-- Product Info -->
+                        <div class="product__item__text text-center p-3">
+                            <h6 class="fw-semibold">
+                               @rel.ProductName
+                            </h6>
+                            <h5 class="text-primary">$@rel.Price</h5>
+                        </div>
+                    </div>
+                </div>
+                        }
+        </div>
+    </div>
+</section>
+
+<!-- Related Product Section End -->
+@section Scripts {
+    <script>
+
+        $('.product__details__pic__slider').each(function () {
+        var $this = $(this);
+        var itemCount = $this.find('img').length;
+
+        $this.owlCarousel({
+            items: 2,
+            margin: 10,
+            loop: itemCount > 3, 
+            nav: true,
+            dots: false
+        });
+    });
+    </script>
+
+
+    <script>
+        $(".add-to-cart-btn").click(function () {
+            let productId = $(this).data("id");
+            let qty = $("#qty-" + productId).val();
+
+            // go to action with query string
+            window.location.href = "/Orders/AddToCart?ProductId=" + productId + "&quantity=" + qty;
+        });
+    </script>
+
+
+}

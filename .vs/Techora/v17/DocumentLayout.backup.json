@@ -1,0 +1,1473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haidy\\Desktop\\Techora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\apicontrollers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\apicontrollers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\apicontrollers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\apicontrollers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\userslistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\userslistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\user\\alluserslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\user\\alluserslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\controllers\\showorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\controllers\\showorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\clsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\clsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\items\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\items\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\categories\\cateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\categories\\cateedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\categories\\overlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\categories\\overlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\dashboardadmins\\addadmins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\dashboardadmins\\addadmins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\AppData\\Local\\Temp\\dc019f38-98e1-47d8-a1ee-4a1adc7dca64_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\AutoMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\AppData\\Local\\Temp\\16d45fcc-b3f0-4bf4-975a-a478fad79575_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\IMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\AppData\\Local\\Temp\\8a001042-40b8-4201-aad2-1124e139a97d_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Services\\ShippingTypeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\AppData\\Local\\Temp\\be45981d-8e18-4b47-ab42-6194e62a76c8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\AppData\\Local\\Temp\\38fc904e-4342-4050-abc9-fe5c4540d1a8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IShippingType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\AppData\\Local\\Temp\\dea996f3-1b00-4ee7-9527-09de4549ed13_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\clsadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\clsadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\devicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\devicescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927181722_AddCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bl\\Migrations\\20250927181722_AddCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927181331_AddCustomerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bl\\Migrations\\20250927181331_AddCustomerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927175058_AddCustomerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bl\\Migrations\\20250927175058_AddCustomerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927171905_LinksTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bl\\Migrations\\20250927171905_LinksTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250924162501_addCol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bl\\Migrations\\20250924162501_addCol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250921195507_aspnetUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bl\\Migrations\\20250921195507_aspnetUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Migrations\\20250826172043_AddImageCate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Techora\\Migrations\\20250826172043_AddImageCate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Migrations\\20250825120356_AdminPhone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Techora\\Migrations\\20250825120356_AdminPhone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\controllers\\dashboardadminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\controllers\\dashboardadminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\models\\allordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\models\\allordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\areas\\admin\\views\\showorders\\tableoforders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\areas\\admin\\views\\showorders\\tableoforders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\models\\customerscatsitemsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\models\\customerscatsitemsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\migrations\\20250929230359_addroletypetoadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250929230359_addroletypetoadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\clscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\clscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\orders\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\orders\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\models\\shoppingcartproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\models\\shoppingcartproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\migrations\\20250927183101_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\migrations\\20250927183101_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\productfulldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\productfulldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\productsallmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\productsallmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\techora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\techora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\models\\profulldetailsshopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\models\\profulldetailsshopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|c:\\users\\haidy\\desktop\\techora\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D406C4F3-AF91-4B7B-88EC-78AE580235C8}|Bl\\Bl.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\wwwroot\\frontend\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\wwwroot\\frontend\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|c:\\users\\haidy\\desktop\\techora\\domains\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508CC8A-87C5-4698-9B99-3C30154AA9E5}|Domains\\Domains.csproj|solutionrelative:domains\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\resources\\resadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\resources\\resadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\resources\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\resources\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\resources\\resgeneral.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\resources\\resgeneral.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\datatables.bootstrap4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\datatables.bootstrap4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|c:\\users\\haidy\\desktop\\techora\\techora\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{462E6B20-1DE6-49A2-9A20-F553107D4280}|Techora\\Techora.csproj|solutionrelative:techora\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:56:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Techora\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Techora\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:32:22.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Program.cs",
+              "RelativeDocumentMoniker": "Techora\\Program.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Program.cs",
+              "RelativeToolTip": "Techora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:26:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T00:43:25.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Techora\\Models\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\APIResponse.cs",
+              "RelativeToolTip": "Techora\\Models\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:34:29.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\ApiControllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Techora\\ApiControllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\ApiControllers\\ItemsController.cs",
+              "RelativeToolTip": "Techora\\ApiControllers\\ItemsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:15:43.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\ApiControllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Techora\\ApiControllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\ApiControllers\\ValuesController.cs",
+              "RelativeToolTip": "Techora\\ApiControllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:53:08.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Customer.cs",
+              "RelativeDocumentMoniker": "Domains\\Customer.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Customer.cs",
+              "RelativeToolTip": "Domains\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:53:20.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersListModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\UsersListModel.cs",
+              "RelativeDocumentMoniker": "Domains\\UsersListModel.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\UsersListModel.cs",
+              "RelativeToolTip": "Domains\\UsersListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:36:55.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Admin.cs",
+              "RelativeDocumentMoniker": "Domains\\Admin.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Admin.cs",
+              "RelativeToolTip": "Domains\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:00:14.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T16:33:04.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T16:33:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bl\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\ApplicationUser.cs",
+              "RelativeToolTip": "Bl\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:20:18.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AllUsersList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\User\\AllUsersList.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\User\\AllUsersList.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\User\\AllUsersList.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\User\\AllUsersList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T17:11:25.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShowOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\ShowOrdersController.cs",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Controllers\\ShowOrdersController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\ShowOrdersController.cs",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Controllers\\ShowOrdersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:35:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Items\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\Items\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Items\\ProductList.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\Items\\ProductList.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T06:43:03.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClsProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\ClsProducts.cs",
+              "RelativeDocumentMoniker": "Bl\\ClsProducts.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\ClsProducts.cs",
+              "RelativeToolTip": "Bl\\ClsProducts.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAkwHUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:13:42.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\Items\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Items\\Edit.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\Items\\Edit.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T19:12:56.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:14:25.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CateEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Categories\\CateEdit.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\Categories\\CateEdit.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Categories\\CateEdit.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\Categories\\CateEdit.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T06:38:14.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T12:21:34.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OverList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Categories\\OverList.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\Categories\\OverList.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Categories\\OverList.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\Categories\\OverList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T06:42:10.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:32:48.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T18:20:58.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\_ViewImports.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T13:33:27.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:18:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T15:41:05.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddAdmins.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\DashboardAdmins\\AddAdmins.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\DashboardAdmins\\AddAdmins.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\DashboardAdmins\\AddAdmins.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\DashboardAdmins\\AddAdmins.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T23:29:46.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\_ViewStart.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T02:30:41.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\dc019f38-98e1-47d8-a1ee-4a1adc7dca64_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\dc019f38-98e1-47d8-a1ee-4a1adc7dca64_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\dc019f38-98e1-47d8-a1ee-4a1adc7dca64_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\AutoMapper.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\dc019f38-98e1-47d8-a1ee-4a1adc7dca64_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\AutoMapper.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:30:56.725Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\16d45fcc-b3f0-4bf4-975a-a478fad79575_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\IMapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\16d45fcc-b3f0-4bf4-975a-a478fad79575_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\IMapper.cs",
+              "ToolTip": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\16d45fcc-b3f0-4bf4-975a-a478fad79575_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\IMapper.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\16d45fcc-b3f0-4bf4-975a-a478fad79575_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Mapping\\IMapper.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:30:27.63Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShippingTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\8a001042-40b8-4201-aad2-1124e139a97d_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Services\\ShippingTypeService.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\8a001042-40b8-4201-aad2-1124e139a97d_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Services\\ShippingTypeService.cs",
+              "ToolTip": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\8a001042-40b8-4201-aad2-1124e139a97d_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Services\\ShippingTypeService.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\8a001042-40b8-4201-aad2-1124e139a97d_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Services\\ShippingTypeService.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:28:44.042Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\be45981d-8e18-4b47-ab42-6194e62a76c8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\be45981d-8e18-4b47-ab42-6194e62a76c8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\be45981d-8e18-4b47-ab42-6194e62a76c8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\be45981d-8e18-4b47-ab42-6194e62a76c8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:26:50.412Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IShippingType.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\38fc904e-4342-4050-abc9-fe5c4540d1a8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IShippingType.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\38fc904e-4342-4050-abc9-fe5c4540d1a8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IShippingType.cs",
+              "ToolTip": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\38fc904e-4342-4050-abc9-fe5c4540d1a8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IShippingType.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\38fc904e-4342-4050-abc9-fe5c4540d1a8_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IShippingType.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:25:57.036Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\dea996f3-1b00-4ee7-9527-09de4549ed13_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\dea996f3-1b00-4ee7-9527-09de4549ed13_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Haidy\\AppData\\Local\\Temp\\dea996f3-1b00-4ee7-9527-09de4549ed13_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\dea996f3-1b00-4ee7-9527-09de4549ed13_WebApi V2 (1).zip.WebApi V2 (1).zip\\WebApi\\BL\\Contract\\IBaseService.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:25:41.973Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T19:53:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAABBwH8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T06:36:27.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Techora\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Techora\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAwLEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T08:32:21.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DevicesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\DevicesContext.cs",
+              "RelativeDocumentMoniker": "Bl\\DevicesContext.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\DevicesContext.cs",
+              "RelativeToolTip": "Bl\\DevicesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:41:00.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClsAdmins.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\ClsAdmins.cs",
+              "RelativeDocumentMoniker": "Bl\\ClsAdmins.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\ClsAdmins.cs",
+              "RelativeToolTip": "Bl\\ClsAdmins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:17:34.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\appsettings.json",
+              "RelativeDocumentMoniker": "Techora\\appsettings.json",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\appsettings.json",
+              "RelativeToolTip": "Techora\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T23:56:15.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DashboardAdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\DashboardAdminsController.cs",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Controllers\\DashboardAdminsController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Controllers\\DashboardAdminsController.cs",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Controllers\\DashboardAdminsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:26:57.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Orders\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Orders\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Orders\\Checkout.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Orders\\Checkout.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAABBwFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T17:15:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Techora\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T12:17:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AllOrdersModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\AllOrdersModel.cs",
+              "RelativeDocumentMoniker": "Techora\\Models\\AllOrdersModel.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\AllOrdersModel.cs",
+              "RelativeToolTip": "Techora\\Models\\AllOrdersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:31:46.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TableOfOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\ShowOrders\\TableOfOrders.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Areas\\admin\\Views\\ShowOrders\\TableOfOrders.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Areas\\admin\\Views\\ShowOrders\\TableOfOrders.cshtml",
+              "RelativeToolTip": "Techora\\Areas\\admin\\Views\\ShowOrders\\TableOfOrders.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAABBwDgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T14:36:13.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomersCatsItemsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\CustomersCatsItemsModel.cs",
+              "RelativeDocumentMoniker": "Techora\\Models\\CustomersCatsItemsModel.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\CustomersCatsItemsModel.cs",
+              "RelativeToolTip": "Techora\\Models\\CustomersCatsItemsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:49:53.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Techora\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Techora\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAABBwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:14:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Techora\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Techora\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T02:40:46.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Techora\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\UserModel.cs",
+              "RelativeToolTip": "Techora\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:36:24.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250929230359_AddRoleTypeToAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250929230359_AddRoleTypeToAdmin.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250929230359_AddRoleTypeToAdmin.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250929230359_AddRoleTypeToAdmin.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250929230359_AddRoleTypeToAdmin.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAABBwA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:03:59.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Cart.cs",
+              "RelativeDocumentMoniker": "Domains\\Cart.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Cart.cs",
+              "RelativeToolTip": "Domains\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T00:12:33.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ClsCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\ClsCategories.cs",
+              "RelativeDocumentMoniker": "Bl\\ClsCategories.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\ClsCategories.cs",
+              "RelativeToolTip": "Bl\\ClsCategories.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAABBwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:10:50.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Techora\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Techora\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:12:42.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Orders\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Orders\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Orders\\Cart.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Orders\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T08:33:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Coupon.cs",
+              "RelativeDocumentMoniker": "Domains\\Coupon.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Coupon.cs",
+              "RelativeToolTip": "Domains\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:00:33.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ShoppingCartProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\ShoppingCartProductModel.cs",
+              "RelativeDocumentMoniker": "Techora\\Models\\ShoppingCartProductModel.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\ShoppingCartProductModel.cs",
+              "RelativeToolTip": "Techora\\Models\\ShoppingCartProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:36:18.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\ProductDetailController.cs",
+              "RelativeDocumentMoniker": "Techora\\Controllers\\ProductDetailController.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Controllers\\ProductDetailController.cs",
+              "RelativeToolTip": "Techora\\Controllers\\ProductDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:17:36.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Product.cs",
+              "RelativeDocumentMoniker": "Domains\\Product.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Product.cs",
+              "RelativeToolTip": "Domains\\Product.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T03:12:06.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\_Imports.razor",
+              "RelativeDocumentMoniker": "Bl\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\_Imports.razor",
+              "RelativeToolTip": "Bl\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T17:43:18.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250927183101_AddCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927183101_AddCustomer.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250927183101_AddCustomer.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927183101_AddCustomer.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250927183101_AddCustomer.cs",
+              "ViewState": "AgIAAOoBAAAAAAAAAABBwIYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:31:01.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250927181331_AddCustomerTable.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927181331_AddCustomerTable.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250927181331_AddCustomerTable.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927181331_AddCustomerTable.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250927181331_AddCustomerTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:13:31.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250927181722_AddCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927181722_AddCustomer.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250927181722_AddCustomer.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927181722_AddCustomer.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250927181722_AddCustomer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:17:22.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ProductFullDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ProductFullDetail.cs",
+              "RelativeDocumentMoniker": "Domains\\ProductFullDetail.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ProductFullDetail.cs",
+              "RelativeToolTip": "Domains\\ProductFullDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:06:22.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250927175058_AddCustomerTable.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927175058_AddCustomerTable.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250927175058_AddCustomerTable.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927175058_AddCustomerTable.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250927175058_AddCustomerTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:50:59.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250927171905_LinksTables.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927171905_LinksTables.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250927171905_LinksTables.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250927171905_LinksTables.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250927171905_LinksTables.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:19:05.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Newsletter.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Newsletter.cs",
+              "RelativeDocumentMoniker": "Domains\\Newsletter.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Newsletter.cs",
+              "RelativeToolTip": "Domains\\Newsletter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:17:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "Domains\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ContactMessage.cs",
+              "RelativeToolTip": "Domains\\ContactMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:17:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Domains\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ProductImage.cs",
+              "RelativeToolTip": "Domains\\ProductImage.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T00:03:46.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProductsAllModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ProductsAllModel.cs",
+              "RelativeDocumentMoniker": "Domains\\ProductsAllModel.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ProductsAllModel.cs",
+              "RelativeToolTip": "Domains\\ProductsAllModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:33:19.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Techora.csproj",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Techora.csproj",
+              "RelativeDocumentMoniker": "Techora\\Techora.csproj",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Techora.csproj",
+              "RelativeToolTip": "Techora\\Techora.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T21:39:30.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Techora\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T10:53:51.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ProFullDetailsShopModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\ProFullDetailsShopModel.cs",
+              "RelativeDocumentMoniker": "Techora\\Models\\ProFullDetailsShopModel.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Models\\ProFullDetailsShopModel.cs",
+              "RelativeToolTip": "Techora\\Models\\ProFullDetailsShopModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:49:04.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250921195507_aspnetUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250921195507_aspnetUsers.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250921195507_aspnetUsers.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250921195507_aspnetUsers.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250921195507_aspnetUsers.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:55:07.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250924162501_addCol.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250924162501_addCol.cs",
+              "RelativeDocumentMoniker": "Bl\\Migrations\\20250924162501_addCol.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Migrations\\20250924162501_addCol.cs",
+              "RelativeToolTip": "Bl\\Migrations\\20250924162501_addCol.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:25:01.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Order.cs",
+              "RelativeDocumentMoniker": "Domains\\Order.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Order.cs",
+              "RelativeToolTip": "Domains\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T04:52:28.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Domains\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\ErrorViewModel.cs",
+              "RelativeToolTip": "Domains\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:36:36.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T03:28:56.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Bl.csproj",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Bl.csproj",
+              "RelativeDocumentMoniker": "Bl\\Bl.csproj",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Bl\\Bl.csproj",
+              "RelativeToolTip": "Bl\\Bl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-07T01:13:53.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\wwwroot\\FrontEnd\\css\\style.css",
+              "RelativeDocumentMoniker": "Techora\\wwwroot\\FrontEnd\\css\\style.css",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\wwwroot\\FrontEnd\\css\\style.css",
+              "RelativeToolTip": "Techora\\wwwroot\\FrontEnd\\css\\style.css",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAMwIQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-06T20:18:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T17:57:09.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Category.cs",
+              "RelativeDocumentMoniker": "Domains\\Category.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Domains\\Category.cs",
+              "RelativeToolTip": "Domains\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:32:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250826172043_AddImageCate.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Migrations\\20250826172043_AddImageCate.cs",
+              "RelativeDocumentMoniker": "Techora\\Migrations\\20250826172043_AddImageCate.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Migrations\\20250826172043_AddImageCate.cs",
+              "RelativeToolTip": "Techora\\Migrations\\20250826172043_AddImageCate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:20:43.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ResAdmin.resx",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Resources\\ResAdmin.resx",
+              "RelativeDocumentMoniker": "Techora\\Resources\\ResAdmin.resx",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Resources\\ResAdmin.resx",
+              "RelativeToolTip": "Techora\\Resources\\ResAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-25T19:10:15.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Resources\\Class.cs",
+              "RelativeDocumentMoniker": "Techora\\Resources\\Class.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Resources\\Class.cs",
+              "RelativeToolTip": "Techora\\Resources\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:04:17.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ResGeneral.resx",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Resources\\ResGeneral.resx",
+              "RelativeDocumentMoniker": "Techora\\Resources\\ResGeneral.resx",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Resources\\ResGeneral.resx",
+              "RelativeToolTip": "Techora\\Resources\\ResGeneral.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-25T17:04:26.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250825120356_AdminPhone.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Migrations\\20250825120356_AdminPhone.cs",
+              "RelativeDocumentMoniker": "Techora\\Migrations\\20250825120356_AdminPhone.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Migrations\\20250825120356_AdminPhone.cs",
+              "RelativeToolTip": "Techora\\Migrations\\20250825120356_AdminPhone.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:03:57.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "dataTables.bootstrap4.js",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\wwwroot\\Admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+              "RelativeDocumentMoniker": "Techora\\wwwroot\\Admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\wwwroot\\Admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+              "RelativeToolTip": "Techora\\wwwroot\\Admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-23T19:14:01.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Techora\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Techora\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T17:57:14.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Techora\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Techora\\Techora\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Techora\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-22T18:23:53.233Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

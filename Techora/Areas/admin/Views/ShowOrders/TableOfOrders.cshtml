@@ -1,0 +1,88 @@
+﻿@model AllOrdersModel
+
+@section Styles {
+    <!-- Plugin css for this page -->
+    <link rel="stylesheet" href="~/Admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.css"> <!-- End plugin css for this page -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"> <!-- DataTables + Bootstrap 5 CSS -->
+}
+
+<div class="container ">
+
+    <!-- Top Cards Row -->
+    <div class="row justify-content-center mb-4">
+        <!-- Borrowed Card -->
+        <div class="col-md-3">
+            <div class="card text-center shadow border-success">
+                <div class="card-body">
+                    <h6 class="card-title text-success">Number OF Orders</h6>
+
+                    <h4 class="fw-light border-top pb-2 mb-2">@Model.lstOrder.Count </h4>
+
+                </div>
+
+            </div>
+           
+            <br />
+            <br />
+        </div>
+
+
+
+    <!-- Table Card -->
+    <div class="card shadow">
+        <div class="card-body">
+            <h6 class="card-title mb-3">Hoverable Table</h6>
+            <div class="table-responsive">
+                <table id="order-listing" class="table table-hover table-striped table-bordered align-middle">
+
+                    <thead class="table-primary">
+                        <tr>
+
+                            <th class="text-center">FullName</th>
+                            <th class="text-center">Email (g)</th>
+                                <th class="text-center">Total Amount</th>
+                                <th class="text-center">OrderDate</th>
+                                <th class="text-center">Status</th>
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model?.lstOrder != null && Model.lstOrder.Any())
+                            {
+                                @foreach (var order in Model.lstOrder)
+                                {
+                                    <tr>
+
+                                        <td class="text-start">@order.Customer.FullName</td>
+                                        <td class="text-start">@order.Customer.Email</td>
+                                        <td class="text-start">@order.TotalAmount</td>
+                                        <td class="text-start">@order.OrderDate</td>
+                                        <td class="text-start">@order.Status</td>
+
+
+                                    </tr>
+                                }
+                            }
+                           
+                        
+               
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+@section Scripts
+{
+
+    <script src="~/Admin/assets/vendors/datatables.net/jquery.dataTables.js"></script>
+    <script src="~/Admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+    <script src="~/Admin/assets/js/data-table.js"></script>
+
+}
