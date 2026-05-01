@@ -1,0 +1,7 @@
+• Built a web-based e-commerce platform for managing electronic devices, categories, and product 
+listings. 
+• Applied N-Tier Architecture to separate business logic, data access, and presentation layers. 
+• Developed an admin panel for managing products, categories, and device details. 
+• Integrated Entity Framework Core for database design and relationships. 
+• Implemented JWT-based authentication for secure access control. 
+• Customized a responsive frontend template for improved user experience. 
